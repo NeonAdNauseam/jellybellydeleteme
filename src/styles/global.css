@@ -23,4 +23,8 @@ body > * {
     grid-row: span 2;
     border-color: purple;
   }
-  
+
+  img {
+
+    width: 300px;
+  }
